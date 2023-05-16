@@ -1,1 +1,1 @@
-# A Python project that me and my whole classmates made for our final project
+# A Python project that me and my classmates made for our final project
